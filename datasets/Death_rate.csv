@@ -1,0 +1,672 @@
+states,year,Life Expectancy,Crime Rate Share,safe,state code,GDP,type,value
+Andaman & Nicobar Island,2010,72,0.3,yes,AN,"4,343",Death Rate,4.3
+Andhra Pradesh,2010,66,5.9,no,AD,"3,19,863",Death Rate,7.6
+Arunanchal Pradesh,2010,76,1.5,yes,AR,"9,021",Death Rate,5.9
+Assam,2010,63,1.6,yes,AS,"1,12,687",Death Rate,8.2
+Bihar,2010,66,1.8,yes,BR,"2,03,554",Death Rate,6.8
+Chandigarh,2010,80,1.8,yes,CH,"20,013",Death Rate,3.9
+Chhattisgarh,2010,80,1.9,yes,CG,"1,19,419",Death Rate,8
+NCT of Delhi,2010,82,8.9,no,DL,"2,52,752",Death Rate,4.2
+Goa,2010,78,7.7,no,GA,"33,605",Death Rate,6.6
+Gujarat,2010,69,5.9,no,GJ,"5,21,518",Death Rate,6.7
+Haryana,2010,70,1.1,yes,HR,"2,60,621",Death Rate,6.6
+Himachal Pradesh,2010,72,1.2,yes,HP,"57,452",Death Rate,6.9
+Jammu & Kashmir,2010,71,9.7,no,JK,"58,072",Death Rate,5.7
+Jharkhand,2010,75,2.2,yes,JH,"1,27,281",Death Rate,7
+Karnataka,2010,70,4.6,moderate,KA,"41,070",Death Rate,7.1
+Kerala,2010,77,8.8,no,KL,"2,63,773",Death Rate,7
+Madhya Pradesh,2010,64,4.2,moderate,MP,"2,63,395",Death Rate,8.3
+Maharashtra,2010,72,6.9,no,MH,"10,49,150",Death Rate,6.5
+Manipur,2010,74,1.4,yes,MN,"9,137",Death Rate,4.2
+Meghalaya,2010,75,1.3,yes,ML,"14,582",Death Rate,7.9
+Mizoram,2010,75,0.1,yes,MZ,"6,387",Death Rate,4.5
+Nagaland,2010,70,0.1,yes,NL,"11,759",Death Rate,3.6
+Odisha,2010,64,1.6,yes,OD,"1,97,529",Death Rate,8.6
+Puducherry,2010,82,0.2,yes,PY,"13,091",Death Rate,7.4
+Punjab,2010,72,1.1,yes,PB,"2,26,204",Death Rate,7
+Rajasthan,2010,68,3.5,moderate,RJ,"3,38,348",Death Rate,6.7
+Sikkim,2010,83,1.2,yes,SK,"7,411",Death Rate,5.6
+Tamil Nadu,2010,71,4.6,moderate,TN,"5,84,896",Death Rate,7.6
+Telangana,2010,85,NA,NA,TS,"2,63,897",Death Rate,NA
+Tripura,2010,82,0.5,yes,TR,"17,867",Death Rate,5
+Uttar Pradesh,2010,63,1.4,yes,UP,"6,00,285",Death Rate,8.1
+Uttarakhand,2010,82,1.7,yes,UK,"83,969",Death Rate,6.3
+West Bengal,2010,69,3.7,moderate,WB,"4,60,958",Death Rate,6
+Andaman & Nicobar Island,2010,,,,,,Birth Rate,15.6
+Andhra Pradesh,2010,,,,,,Birth Rate,17.9
+Arunanchal Pradesh,2010,,,,,,Birth Rate,20.5
+Assam,2010,,,,,,Birth Rate,23.2
+Bihar,2010,,,,,,Birth Rate,28.1
+Chandigarh,2010,,,,,,Birth Rate,15.6
+Chhattisgarh,2010,,,,,,Birth Rate,25.3
+Daman & Diu,2010,,,,,,Birth Rate,26.6
+NCT of Delhi,2010,,,,,,Birth Rate,17.8
+Goa,2010,,,,,,Birth Rate,13.2
+Gujarat,2010,,,,,,Birth Rate,21.8
+Haryana,2010,,,,,,Birth Rate,22.3
+Himachal Pradesh,2010,,,,,,Birth Rate,16.9
+Jammu & Kashmir,2010,,,,,,Birth Rate,18.3
+Jharkhand,2010,,,,,,Birth Rate,25.3
+Karnataka,2010,,,,,,Birth Rate,19.2
+Kerala,2010,,,,,,Birth Rate,14.8
+Lakshadweep,2010,,,,,,Birth Rate,14.3
+Madhya Pradesh,2010,,,,,,Birth Rate,27.3
+Maharashtra,2010,,,,,,Birth Rate,17.1
+Manipur,2010,,,,,,Birth Rate,14.9
+Meghalaya,2010,,,,,,Birth Rate,24.5
+Mizoram,2010,,,,,,Birth Rate,17.1
+Nagaland,2010,,,,,,Birth Rate,16.8
+Odisha,2010,,,,,,Birth Rate,20.5
+Puducherry,2010,,,,,,Birth Rate,16.7
+Punjab,2010,,,,,,Birth Rate,16.6
+Rajasthan,2010,,,,,,Birth Rate,26.7
+Sikkim,2010,,,,,,Birth Rate,17.8
+Tamil Nadu,2010,,,,,,Birth Rate,15.9
+Telangana,2010,,,,,,Birth Rate,15.4
+Tripura,2010,,,,,,Birth Rate,14.9
+Uttar Pradesh,2010,,,,,,Birth Rate,28.3
+Uttarakhand,2010,,,,,,Birth Rate,19.3
+West Bengal,2010,,,,,,Birth Rate,16.8
+Andaman & Nicobar Island,2011,75,,,AN,"3,978",Death Rate,4.6
+Andhra Pradesh,2011,79,,,AD,"3,79,402",Death Rate,7.5
+Arunanchal Pradesh,2011,66,,,AR,"11,063",Death Rate,5.8
+Assam,2011,62,,,AS,"1,43,175",Death Rate,8
+Bihar,2011,66,,,BR,"2,47,144",Death Rate,6.7
+Chandigarh,2011,82,,,CH,"18,768",Death Rate,4.1
+Chhattisgarh,2011,84,,,CG,"1,58,074",Death Rate,7.9
+NCT of Delhi,2011,75,,,DL,"3,43,798",Death Rate,4.3
+Goa,2011,82,,,GA,"42,367",Death Rate,6.7
+Gujarat,2011,67,,,GJ,"6,15,606",Death Rate,6.7
+Haryana,2011,67,,,HR,"2,97,539",Death Rate,6.5
+Himachal Pradesh,2011,70,,,HP,"72,720",Death Rate,6.7
+Jammu & Kashmir,2011,71,,,JK,"78,256",Death Rate,5.5
+Jharkhand,2011,86,,,JH,"1,50,918",Death Rate,6.8
+Karnataka,2011,68,,,KA,"6,06,048",Death Rate,7.1
+Kerala,2011,74,,,KL,"3,64,048",Death Rate,7
+Madhya Pradesh,2011,63,,,MP,"3,15,562",Death Rate,8.2
+Maharashtra,2011,70,,,MH,"12,80,369",Death Rate,6.3
+Manipur,2011,78,,,MN,"12,915",Death Rate,4.1
+Meghalaya,2011,77,,,ML,"19,918",Death Rate,7.8
+Mizoram,2011,76,,,MZ,"7,259",Death Rate,4.4
+Nagaland,2011,75,,,NL,"12,177",Death Rate,3.3
+Odisha,2011,64,,,OD,"2,30,987",Death Rate,8.5
+Puducherry,2011,84,,,PY,"16,818",Death Rate,7.2
+Punjab,2011,70,,,PB,"2,66,628",Death Rate,6.8
+Rajasthan,2011,67,,,RJ,"4,34,837",Death Rate,6.7
+Sikkim,2011,75,,,SK,"11,165",Death Rate,5.6
+Tamil Nadu,2011,69,,,TN,"7,51,486",Death Rate,7.4
+Telangana,2011,75,,,TS,"3,59,434",Death Rate,NA
+Tripura,2011,82,,,TR,"19,208",Death Rate,5
+Uttar Pradesh,2011,63,,,UP,"7,24,050",Death Rate,7.9
+Uttarakhand,2011,85,,,UK,"1,15,328",Death Rate,6.2
+West Bengal,2011,69,,,WB,"5,20,485",Death Rate,6.2
+Andaman & Nicobar Island,2011,,,,,,Birth Rate,15.1
+Andhra Pradesh,2011,,,,,,Birth Rate,17.5
+Arunanchal Pradesh,2011,,,,,,Birth Rate,19.8
+Assam,2011,,,,,,Birth Rate,22.8
+Bihar,2011,,,,,,Birth Rate,27.7
+Chandigarh,2011,,,,,,Birth Rate,15
+Chhattisgarh,2011,,,,,,Birth Rate,24.9
+Daman & Diu,2011,,,,,,Birth Rate,18.4
+NCT of Delhi,2011,,,,,,Birth Rate,17.5
+Goa,2011,,,,,,Birth Rate,13.3
+Gujarat,2011,,,,,,Birth Rate,21.3
+Haryana,2011,,,,,,Birth Rate,21.8
+Himachal Pradesh,2011,,,,,,Birth Rate,16.5
+Jammu & Kashmir,2011,,,,,,Birth Rate,17.8
+Jharkhand,2011,,,,,,Birth Rate,25
+Karnataka,2011,,,,,,Birth Rate,18.8
+Kerala,2011,,,,,,Birth Rate,15.2
+Lakshadweep,2011,,,,,,Birth Rate,14.7
+Madhya Pradesh,2011,,,,,,Birth Rate,26.9
+Maharashtra,2011,,,,,,Birth Rate,16.7
+Manipur,2011,,,,,,Birth Rate,14.4
+Meghalaya,2011,,,,,,Birth Rate,24.1
+Mizoram,2011,,,,,,Birth Rate,16.6
+Nagaland,2011,,,,,,Birth Rate,16.1
+Odisha,2011,,,,,,Birth Rate,20.1
+Puducherry,2011,,,,,,Birth Rate,16.1
+Punjab,2011,,,,,,Birth Rate,16.2
+Rajasthan,2011,,,,,,Birth Rate,26.2
+Sikkim,2011,,,,,,Birth Rate,17.6
+Tamil Nadu,2011,,,,,,Birth Rate,15.9
+Telangana,2011,,,,,,Birth Rate,14.7
+Tripura,2011,,,,,,Birth Rate,14.3
+Uttar Pradesh,2011,,,,,,Birth Rate,27.8
+Uttarakhand,2011,,,,,,Birth Rate,18.9
+West Bengal,2011,,,,,,Birth Rate,16.3
+Andaman & Nicobar Island,2012,80,0,yes,AN,"4,421",Death Rate,4.6
+Andhra Pradesh,2012,67,8.1,no,AD,"4,11,404",Death Rate,7.4
+Arunanchal Pradesh,2012,70,0.1,yes,AR,"12,547",Death Rate,5.8
+Assam,2012,63,3.3,moderate,AS,"1,56,864",Death Rate,7.9
+Bihar,2012,67,6.1,no,BR,"2,82,368",Death Rate,6.6
+Chandigarh,2012,74,0.2,yes,CH,"21,609",Death Rate,4
+Chhattisgarh,2012,75,2.3,yes,CG,"1,77,511",Death Rate,7.9
+NCT of Delhi,2012,84,2.3,yes,DL,"3,91,388",Death Rate,4.2
+Goa,2012,78,0.2,yes,GA,"38,120",Death Rate,6.6
+Gujarat,2012,68,5.5,no,GJ,"7,24,495",Death Rate,6.6
+Haryana,2012,68,2.6,moderate,HR,"3,47,032",Death Rate,6.4
+Himachal Pradesh,2012,71,0.5,yes,HP,"82,820",Death Rate,6.7
+Jammu & Kashmir,2012,71,1,yes,JK,"87,138",Death Rate,5.4
+Jharkhand,2012,70,1.7,yes,JH,"1,74,724",Death Rate,6.8
+Karnataka,2012,68,5.6,no,KA,"6,95,413",Death Rate,7.1
+Kerala,2012,75,6.7,no,KL,"4,12,313",Death Rate,6.9
+Madhya Pradesh,2012,63,9.2,no,MP,"3,80,925",Death Rate,8.1
+Maharashtra,2012,71,8.5,no,MH,"14,59,629",Death Rate,6.3
+Manipur,2012,74,0.2,yes,MN,"13,743",Death Rate,4
+Meghalaya,2012,76,0.1,yes,ML,"21,872",Death Rate,7.6
+Mizoram,2012,75,0.1,yes,MZ,"8,362",Death Rate,4.4
+Nagaland,2012,76,0,yes,NL,"14,121",Death Rate,3.2
+Odisha,2012,64,2.8,yes,OD,"2,61,700",Death Rate,8.5
+Puducherry,2012,80,0.2,yes,PY,"2,97,734",Death Rate,7.1
+Punjab,2012,70,1.5,yes,PB,"2,97,73,382",Death Rate,6.8
+Rajasthan,2012,67,7.2,no,RJ,"4,93,551",Death Rate,6.6
+Sikkim,2012,80,0,yes,SK,"12,338",Death Rate,5.4
+Tamil Nadu,2012,70,8.4,no,TN,"8,54,825",Death Rate,7.4
+Telangana,2012,78,NA,,TS,"4,01,594",Death Rate,NA
+Tripura,2012,76,0.3,yes,TR,"21,663",Death Rate,4.8
+Uttar Pradesh,2012,64,8.3,no,UP,"8,22,393",Death Rate,7.7
+Uttarakhand,2012,79,0.4,yes,UK,"1,31,613",Death Rate,6.1
+West Bengal,2012,70,6.8,no,WB,"5,91,464",Death Rate,6.3
+Andaman & Nicobar Island,2012,,,,,,Birth Rate,15.1
+Andhra Pradesh,2012,,,,,,Birth Rate,17.5
+Arunanchal Pradesh,2012,,,,,,Birth Rate,19.8
+Assam,2012,,,,,,Birth Rate,22.8
+Bihar,2012,,,,,,Birth Rate,27.7
+Chandigarh,2012,,,,,,Birth Rate,15
+Chhattisgarh,2012,,,,,,Birth Rate,24.9
+Daman & Diu,2012,,,,,,Birth Rate,18.4
+NCT of Delhi,2012,,,,,,Birth Rate,17.5
+Goa,2012,,,,,,Birth Rate,13.3
+Gujarat,2012,,,,,,Birth Rate,21.3
+Haryana,2012,,,,,,Birth Rate,21.8
+Himachal Pradesh,2012,,,,,,Birth Rate,16.5
+Jammu & Kashmir,2012,,,,,,Birth Rate,17.8
+Jharkhand,2012,,,,,,Birth Rate,25
+Karnataka,2012,,,,,,Birth Rate,18.8
+Kerala,2012,,,,,,Birth Rate,15.2
+Lakshadweep,2012,,,,,,Birth Rate,14.7
+Madhya Pradesh,2012,,,,,,Birth Rate,26.9
+Maharashtra,2012,,,,,,Birth Rate,16.7
+Manipur,2012,,,,,,Birth Rate,14.4
+Meghalaya,2012,,,,,,Birth Rate,24.1
+Mizoram,2012,,,,,,Birth Rate,16.6
+Nagaland,2012,,,,,,Birth Rate,16.1
+Odisha,2012,,,,,,Birth Rate,20.1
+Puducherry,2012,,,,,,Birth Rate,16.1
+Punjab,2012,,,,,,Birth Rate,16.2
+Rajasthan,2012,,,,,,Birth Rate,26.2
+Sikkim,2012,,,,,,Birth Rate,17.6
+Tamil Nadu,2012,,,,,,Birth Rate,15.9
+Telangana,2012,,,,,,Birth Rate,16
+Tripura,2012,,,,,,Birth Rate,14.3
+Uttar Pradesh,2012,,,,,,Birth Rate,27.8
+Uttarakhand,2012,,,,,,Birth Rate,18.9
+West Bengal,2012,,,,,,Birth Rate,16.3
+Andaman & Nicobar Island,2013,79,0,yes,AN,"5,023",Death Rate,4.6
+Andhra Pradesh,2013,68,8.2,no,AD,"4,64,272",Death Rate,7.3
+Arunanchal Pradesh,2013,85,0.1,yes,AR,"14,581",Death Rate,6.6
+Assam,2013,63,3.3,moderate,AS,"1,77,745",Death Rate,7.8
+Bihar,2013,68,6.3,no,BR,"3,17,101",Death Rate,6.6
+Chandigarh,2013,70,0.2,yes,CH,"24,822",Death Rate,4
+Chhattisgarh,2013,83,2.1,yes,CG,"2,06,833",Death Rate,7.9
+NCT of Delhi,2013,81,3,moderate,DL,"4,43,960",Death Rate,4.1
+Goa,2013,82,0.2,yes,GA,"35,921",Death Rate,6.6
+Gujarat,2013,68,5.9,no,GJ,"8,07,623",Death Rate,6.5
+Haryana,2013,68,2.7,moderate,HR,"3,99,268",Death Rate,6.3
+Himachal Pradesh,2013,71,0.5,yes,HP,"94,764",Death Rate,6.7
+Jammu & Kashmir,2013,72,1,yes,JK,"95,619",Death Rate,5.3
+Jharkhand,2013,78,1.8,yes,JH,"1,88,567",Death Rate,6.8
+Karnataka,2013,69,5.2,no,KA,"8,16,666",Death Rate,7
+Kerala,2013,75,6.7,no,KL,"4,65,041",Death Rate,6.9
+Madhya Pradesh,2013,64,8.6,no,MP,"4,39,483",Death Rate,8
+Maharashtra,2013,71,8.9,no,MH,"16,49,647",Death Rate,6.2
+Manipur,2013,85,0.1,yes,MN,"16,182",Death Rate,4
+Meghalaya,2013,87,0.1,yes,ML,"22,938",Death Rate,7.6
+Mizoram,2013,75,0.1,yes,MZ,"10,293",Death Rate,4.3
+Nagaland,2013,71,0,yes,NL,"16,612",Death Rate,3.1
+Odisha,2013,65,2.7,moderate,OD,"2,96,475",Death Rate,8.4
+Puducherry,2013,79,0.1,yes,PY,"21,870",Death Rate,7
+Punjab,2013,71,1.4,yes,PB,"3,32,147",Death Rate,6.7
+Rajasthan,2013,68,7.4,no,RJ,"5,61,031",Death Rate,6.5
+Sikkim,2013,80,0,yes,SK,"13,862",Death Rate,5.2
+Tamil Nadu,2013,70,7.7,no,TN,"9,68,530",Death Rate,7.3
+Telangana,2013,75,NA,,TS,"4,51,580",Death Rate,NA
+Tripura,2013,83,0.2,yes,TR,"25,593",Death Rate,4.7
+Uttar Pradesh,2013,64,8.6,no,UP,"9,40,356",Death Rate,7.7
+Uttarakhand,2013,84,0.4,yes,UK,"1,49,074",Death Rate,6.1
+West Bengal,2013,70,6.4,no,WB,"6,76,848",Death Rate,6.4
+Andaman & Nicobar Island,2013,,,,,,Birth Rate,14.6
+Andhra Pradesh,2013,,,,,,Birth Rate,17.4
+Arunanchal Pradesh,2013,,,,,,Birth Rate,19.3
+Assam,2013,,,,,,Birth Rate,22.4
+Bihar,2013,,,,,,Birth Rate,27.6
+Chandigarh,2013,,,,,,Birth Rate,14.7
+Chhattisgarh,2013,,,,,,Birth Rate,24.4
+Daman & Diu,2013,,,,,,Birth Rate,17.9
+NCT of Delhi,2013,,,,,,Birth Rate,17.2
+Goa,2013,,,,,,Birth Rate,13
+Gujarat,2013,,,,,,Birth Rate,20.8
+Haryana,2013,,,,,,Birth Rate,21.3
+Himachal Pradesh,2013,,,,,,Birth Rate,16
+Jammu & Kashmir,2013,,,,,,Birth Rate,17.5
+Jharkhand,2013,,,,,,Birth Rate,24.6
+Karnataka,2013,,,,,,Birth Rate,18.3
+Kerala,2013,,,,,,Birth Rate,14.7
+Lakshadweep,2013,,,,,,Birth Rate,14.8
+Madhya Pradesh,2013,,,,,,Birth Rate,26.3
+Maharashtra,2013,,,,,,Birth Rate,16.5
+Manipur,2013,,,,,,Birth Rate,14.7
+Meghalaya,2013,,,,,,Birth Rate,23.9
+Mizoram,2013,,,,,,Birth Rate,16.1
+Nagaland,2013,,,,,,Birth Rate,15.4
+Odisha,2013,,,,,,Birth Rate,19.6
+Puducherry,2013,,,,,,Birth Rate,15.7
+Punjab,2013,,,,,,Birth Rate,15.7
+Rajasthan,2013,,,,,,Birth Rate,25.6
+Sikkim,2013,,,,,,Birth Rate,17.1
+Tamil Nadu,2013,,,,,,Birth Rate,15.6
+Telangana,2013,,,,,,Birth Rate,16.9
+Tripura,2013,,,,,,Birth Rate,13.7
+Uttar Pradesh,2013,,,,,,Birth Rate,27.2
+Uttarakhand,2013,,,,,,Birth Rate,18.2
+West Bengal,2013,,,,,,Birth Rate,16
+Andaman & Nicobar Island,2014,64,0,yes,AN,"5,477",Death Rate,4.6
+Andhra Pradesh,2014,69,2.2,yes,AD,"5,24,976",Death Rate,7.3
+Arunanchal Pradesh,2014,73,0.2,yes,AR,"17,959",Death Rate,6.6
+Assam,2014,64,4.4,no,AS,"1,95,723",Death Rate,7.2
+Bihar,2014,68,10.4,no,BR,"3,42,951",Death Rate,6.2
+Chandigarh,2014,76,0.1,yes,CH,"26,549",Death Rate,4
+Chhattisgarh,2014,65,2.1,yes,CG,"2,21,118",Death Rate,7.7
+NCT of Delhi,2014,73,5.7,no,DL,"4,94,803",Death Rate,3.8
+Goa,2014,79,0.2,yes,GA,"47,814",Death Rate,6.6
+Gujarat,2014,69,2.6,moderate,GJ,"9,21,773",Death Rate,6.2
+Haryana,2014,69,3,moderate,HR,"4,37,145",Death Rate,6.1
+Himachal Pradesh,2014,72,0.4,yes,HP,"1,03,772",Death Rate,6.7
+Jammu & Kashmir,2014,73,1.1,yes,JK,"98,370",Death Rate,5.1
+Jharkhand,2014,67,2.6,moderate,JH,"2,18,525",Death Rate,5.9
+Karnataka,2014,69,5.4,no,KA,"9,13,923",Death Rate,6.8
+Kerala,2014,75,3.5,moderate,KL,"5,12,564",Death Rate,6.6
+Madhya Pradesh,2014,64,7.1,no,MP,"4,79,939",Death Rate,7.8
+Maharashtra,2014,72,9.8,no,MH,"17,79,138",Death Rate,6
+Manipur,2014,84,0.2,yes,MN,"18,129",Death Rate,4.3
+Meghalaya,2014,82,0.2,yes,ML,"23,235",Death Rate,7.5
+Mizoram,2014,85,0.1,yes,MZ,"13,509",Death Rate,4.3
+Nagaland,2014,89,0.1,yes,NL,"18,401",Death Rate,3.1
+Odisha,2014,66,4.2,moderate,OD,"3,14,250",Death Rate,7.9
+Puducherry,2014,80,0,yes,PY,"22,573",Death Rate,6.6
+Punjab,2014,72,1.5,yes,PB,"3,55,102",Death Rate,6.4
+Rajasthan,2014,68,5,no,RJ,"6,15,642",Death Rate,6.4
+Sikkim,2014,75,0.1,yes,SK,"15,407",Death Rate,5.1
+Tamil Nadu,2014,71,3.8,moderate,TN,"10,72,678",Death Rate,7
+Telangana,2014,70,2,yes,TS,"5,05,849",Death Rate,6.7
+Tripura,2014,69,0.3,yes,TR,"29,533",Death Rate,4.7
+Uttar Pradesh,2014,64,12.7,no,UP,"10,11,790",Death Rate,7.4
+Uttarakhand,2014,72,0.6,yes,UK,"1,61,439",Death Rate,6
+West Bengal,2014,70,8.4,no,WB,"7,18,082",Death Rate,6.1
+Andaman & Nicobar Island,2014,,,,,,Birth Rate,14.7
+Andhra Pradesh,2014,,,,,,Birth Rate,17
+Arunanchal Pradesh,2014,,,,,,Birth Rate,19.2
+Assam,2014,,,,,,Birth Rate,22.4
+Bihar,2014,,,,,,Birth Rate,25.9
+Chandigarh,2014,,,,,,Birth Rate,14.3
+Chhattisgarh,2014,,,,,,Birth Rate,23.4
+Daman & Diu,2014,,,,,,Birth Rate,17.3
+NCT of Delhi,2014,,,,,,Birth Rate,16.8
+Goa,2014,,,,,,Birth Rate,12.9
+Gujarat,2014,,,,,,Birth Rate,20.6
+Haryana,2014,,,,,,Birth Rate,21.2
+Himachal Pradesh,2014,,,,,,Birth Rate,16.4
+Jammu & Kashmir,2014,,,,,,Birth Rate,16.8
+Jharkhand,2014,,,,,,Birth Rate,23.8
+Karnataka,2014,,,,,,Birth Rate,18.1
+Kerala,2014,,,,,,Birth Rate,14.8
+Lakshadweep,2014,,,,,,Birth Rate,14
+Madhya Pradesh,2014,,,,,,Birth Rate,25.7
+Maharashtra,2014,,,,,,Birth Rate,16.5
+Manipur,2014,,,,,,Birth Rate,14.6
+Meghalaya,2014,,,,,,Birth Rate,24.1
+Mizoram,2014,,,,,,Birth Rate,16.4
+Nagaland,2014,,,,,,Birth Rate,15.3
+Odisha,2014,,,,,,Birth Rate,19.4
+Puducherry,2014,,,,,,Birth Rate,14.6
+Punjab,2014,,,,,,Birth Rate,15.5
+Rajasthan,2014,,,,,,Birth Rate,25
+Sikkim,2014,,,,,,Birth Rate,17.1
+Tamil Nadu,2014,,,,,,Birth Rate,15.4
+Telangana,2014,,,,,,Birth Rate,18
+Tripura,2014,,,,,,Birth Rate,14.9
+Uttar Pradesh,2014,,,,,,Birth Rate,27
+Uttarakhand,2014,,,,,,Birth Rate,18.2
+West Bengal,2014,,,,,,Birth Rate,15.6
+Andaman & Nicobar Island,2015,79,0,yes,AN,"6,032",Death Rate,5
+Andhra Pradesh,2015,69,2.1,yes,AD,"6,04,229",Death Rate,7.1
+Arunanchal Pradesh,2015,75,0.2,yes,AR,"18,509",Death Rate,6
+Assam,2015,65,4.5,moderate,AS,"2,27,959",Death Rate,7.1
+Bihar,2015,68,10.6,no,BR,"3,71,602",Death Rate,6.2
+Chandigarh,2015,74,0.2,yes,CH,"29,280",Death Rate,4.4
+Chhattisgarh,2015,65,2.1,yes,CG,"2,27,383",Death Rate,7.5
+NCT of Delhi,2015,74,6.1,no,DL,"5,50,804",Death Rate,3.6
+Goa,2015,69,0.1,yes,GA,"55,054",Death Rate,6.4
+Gujarat,2015,69,2.4,yes,GJ,"10,29,010",Death Rate,6.1
+Haryana,2015,69,3,yes,HR,"4,95,249",Death Rate,6.1
+Himachal Pradesh,2015,72,0.4,yes,HP,"1,14,239",Death Rate,6.6
+Jammu & Kashmir,2015,73,1,yes,JK,"1,17,168",Death Rate,4.9
+Jharkhand,2015,67,2.5,yes,JH,"2,06,613",Death Rate,5.8
+Karnataka,2015,69,5.1,no,KA,"10,45,168",Death Rate,6.6
+Kerala,2015,75,3.6,moderate,KL,"5,61,994",Death Rate,6.6
+Madhya Pradesh,2015,65,6.6,no,MP,"5,41,189",Death Rate,7.5
+Maharashtra,2015,72,11.1,no,MH,"19,66,147",Death Rate,5.8
+Manipur,2015,75,0.2,yes,MN,"19,531",Death Rate,4
+Meghalaya,2015,70,0.2,yes,ML,"25,117",Death Rate,7.4
+Mizoram,2015,76,0.1,yes,MZ,"15,139",Death Rate,4.2
+Nagaland,2015,76,0.1,yes,NL,"19,524",Death Rate,3
+Odisha,2015,67,4.4,moderate,OD,"3,28,550",Death Rate,7.6
+Puducherry,2015,69,0,yes,PY,"26,617",Death Rate,6.8
+Punjab,2015,72,1.5,yes,PB,"3,90,087",Death Rate,6.2
+Rajasthan,2015,68,4.7,moderate,RJ,"6,81,485",Death Rate,6.3
+Sikkim,2015,69,0,yes,SK,"18,034",Death Rate,5
+Tamil Nadu,2015,70,3.6,moderate,TN,"11,76,500",Death Rate,6.7
+Telangana,2015,71,1.9,yes,TS,"5,77,902",Death Rate,6.5
+Tripura,2015,74,0.2,yes,TR,"35,938",Death Rate,5.2
+Uttar Pradesh,2015,65,12.1,no,UP,"11,37,210",Death Rate,7.2
+Uttarakhand,2015,72,0.6,yes,UK,"1,77,163",Death Rate,6.4
+West Bengal,2015,71,8.8,no,WB,"7,97,300",Death Rate,5.9
+Andaman & Nicobar Island,2015,,,,,,Birth Rate,12
+Andhra Pradesh,2015,,,,,,Birth Rate,16.8
+Arunanchal Pradesh,2015,,,,,,Birth Rate,18.8
+Assam,2015,,,,,,Birth Rate,22
+Bihar,2015,,,,,,Birth Rate,26.3
+Chandigarh,2015,,,,,,Birth Rate,13.7
+Chhattisgarh,2015,,,,,,Birth Rate,23.2
+NCT of Delhi,2015,,,,,,Birth Rate,16.4
+Goa,2015,,,,,,Birth Rate,12.7
+Gujarat,2015,,,,,,Birth Rate,20.4
+Haryana,2015,,,,,,Birth Rate,20.9
+Himachal Pradesh,2015,,,,,,Birth Rate,16.3
+Jammu & Kashmir,2015,,,,,,Birth Rate,16.2
+Jharkhand,2015,,,,,,Birth Rate,23.5
+Karnataka,2015,,,,,,Birth Rate,17.9
+Kerala,2015,,,,,,Birth Rate,14.8
+Lakshadweep,2015,,,,,,Birth Rate,14.7
+Madhya Pradesh,2015,,,,,,Birth Rate,25.5
+Maharashtra,2015,,,,,,Birth Rate,16.3
+Manipur,2015,,,,,,Birth Rate,14.4
+Meghalaya,2015,,,,,,Birth Rate,23.7
+Mizoram,2015,,,,,,Birth Rate,16.2
+Nagaland,2015,,,,,,Birth Rate,14.8
+Odisha,2015,,,,,,Birth Rate,19.2
+Puducherry,2015,,,,,,Birth Rate,13.8
+Punjab,2015,,,,,,Birth Rate,15.2
+Rajasthan,2015,,,,,,Birth Rate,24.8
+Sikkim,2015,,,,,,Birth Rate,17
+Tamil Nadu,2015,,,,,,Birth Rate,15.2
+Telangana,2015,,,,,,Birth Rate,17.8
+Tripura,2015,,,,,,Birth Rate,14.7
+Uttar Pradesh,2015,,,,,,Birth Rate,26.7
+Uttarakhand,2015,,,,,,Birth Rate,17.8
+West Bengal,2015,,,,,,Birth Rate,15.5
+Andaman & Nicobar Island,2016,75,0,yes,AN,"6,836",Death Rate,5.2
+Andhra Pradesh,2016,70,3.6,moderate,AD,"6,97,508",Death Rate,6.8
+Arunanchal Pradesh,2016,74,0.1,yes,AR,"19,627",Death Rate,6.2
+Assam,2016,66,3.4,yes,AS,"2,54,478",Death Rate,6.7
+Bihar,2016,69,5.5,no,BR,"4,22,316",Death Rate,6
+Chandigarh,2016,73,0.1,yes,CH,"32,741",Death Rate,4.5
+Chhattisgarh,2016,65,1.8,yes,CG,"2,54,722",Death Rate,7.4
+NCT of Delhi,2016,74,7,no,DL,"6,15,605",Death Rate,4
+Goa,2016,65,0.1,yes,GA,"63,460",Death Rate,6.7
+Gujarat,2016,70,4.9,moderate,GJ,"11,53,327",Death Rate,6.1
+Haryana,2016,69,3,yes,HR,"5,56,325",Death Rate,5.9
+Himachal Pradesh,2016,72,0.4,yes,HP,"1,25,634",Death Rate,6.8
+Jammu & Kashmir,2016,74,0.8,yes,JK,"1,25,379",Death Rate,5
+Jharkhand,2016,68,1.4,yes,JH,"2,36,250",Death Rate,5.5
+Karnataka,2016,69,5,no,KA,"12,09,136",Death Rate,6.7
+Kerala,2016,75,8.7,no,KL,"6,34,886",Death Rate,7.6
+Madhya Pradesh,2016,65,8.9,no,MP,"6,48,849",Death Rate,7.1
+Maharashtra,2016,72,8.8,no,MH,"21,88,532",Death Rate,5.9
+Manipur,2016,69,0.1,yes,MN,"21,294",Death Rate,4.5
+Meghalaya,2016,74,0.1,yes,ML,"27,439",Death Rate,6.6
+Mizoram,2016,73,0.1,yes,MZ,"17,192",Death Rate,4.2
+Nagaland,2016,68,0,yes,NL,"21,722",Death Rate,4.5
+Odisha,2016,68,3.6,moderate,OD,"3,93,808",Death Rate,7.8
+Puducherry,2016,65,0.1,yes,PY,"29,573",Death Rate,7.2
+Punjab,2016,73,1.3,yes,PB,"4,26,988",Death Rate,6
+Rajasthan,2016,68,6.1,no,RJ,"7,58,809",Death Rate,6.1
+Sikkim,2016,71,0,yes,SK,"20,687",Death Rate,4.7
+Tamil Nadu,2016,65,6,no,TN,"13,02,639",Death Rate,6.4
+Telangana,2016,71,3.7,moderate,TS,"6,59,033",Death Rate,6.1
+Tripura,2016,73,0.1,yes,TR,"39,612",Death Rate,5.5
+Uttar Pradesh,2016,65,9.5,no,UP,"12,48,374",Death Rate,6.9
+Uttarakhand,2016,72,0.4,yes,UK,"1,95,125",Death Rate,6.7
+West Bengal,2016,71,5.9,no,WB,"8,72,527",Death Rate,5.8
+Andaman & Nicobar Island,2016,,,,,,Birth Rate,11.7
+Andhra Pradesh,2016,,,,,,Birth Rate,16.4
+Arunanchal Pradesh,2016,,,,,,Birth Rate,18.9
+Assam,2016,,,,,,Birth Rate,21.7
+Bihar,2016,,,,,,Birth Rate,26.8
+Chandigarh,2016,,,,,,Birth Rate,13.9
+Chhattisgarh,2016,,,,,,Birth Rate,22.8
+NCT of Delhi,2016,,,,,,Birth Rate,15.5
+Goa,2016,,,,,,Birth Rate,12.9
+Gujarat,2016,,,,,,Birth Rate,20.1
+Haryana,2016,,,,,,Birth Rate,20.7
+Himachal Pradesh,2016,,,,,,Birth Rate,16
+Jammu & Kashmir,2016,,,,,,Birth Rate,15.7
+Jharkhand,2016,,,,,,Birth Rate,22.9
+Karnataka,2016,,,,,,Birth Rate,17.6
+Kerala,2016,,,,,,Birth Rate,14.3
+Madhya Pradesh,2016,,,,,,Birth Rate,25.1
+Maharashtra,2016,,,,,,Birth Rate,15.9
+Manipur,2016,,,,,,Birth Rate,12.9
+Meghalaya,2016,,,,,,Birth Rate,23.7
+Mizoram,2016,,,,,,Birth Rate,15.5
+Nagaland,2016,,,,,,Birth Rate,14
+Odisha,2016,,,,,,Birth Rate,18.6
+Puducherry,2016,,,,,,Birth Rate,13.9
+Punjab,2016,,,,,,Birth Rate,14.9
+Rajasthan,2016,,,,,,Birth Rate,24.3
+Sikkim,2016,,,,,,Birth Rate,16.6
+Tamil Nadu,2016,,,,,,Birth Rate,15
+Telangana,2016,,,,,,Birth Rate,17.5
+Tripura,2016,,,,,,Birth Rate,13.7
+Uttar Pradesh,2016,,,,,,Birth Rate,26.2
+Uttarakhand,2016,,,,,,Birth Rate,16.6
+West Bengal,2016,,,,,,Birth Rate,15.4
+Andaman & Nicobar Island,2017,75,0.1,yes,AN,"7,871",Death Rate,5.1
+Andhra Pradesh,2017,70,3,yes,AD,"8,09,547",Death Rate,7.2
+Arunanchal Pradesh,2017,74,0.1,yes,AR,"22,045",Death Rate,6.1
+Assam,2017,66,2.2,yes,AS,"2,88,494",Death Rate,6.5
+Bihar,2017,69,4.7,moderate,BR,"4,84,740",Death Rate,5.8
+Chandigarh,2017,77,0.1,yes,CH,"38,806",Death Rate,4.5
+Chhattisgarh,2017,65,1.8,yes,CG,"2,84,194",Death Rate,7.5
+NCT of Delhi,2017,75,4.9,moderate,DL,"6,90,098",Death Rate,3.7
+Goa,2017,79,0.1,yes,GA,"70,493",Death Rate,6.2
+Gujarat,2017,70,6.7,no,GJ,"13,14,680",Death Rate,6.2
+Haryana,2017,70,4.5,moderate,HR,"6,26,054",Death Rate,5.8
+Himachal Pradesh,2017,73,0.4,yes,HP,"1,40,613",Death Rate,6.6
+Jammu & Kashmir,2017,74,0.5,yes,JK,"1,38,488",Death Rate,4.8
+Jharkhand,2017,69,1.1,yes,JH,"2,76,243",Death Rate,5.5
+Karnataka,2017,69,3.7,moderate,KA,"13,50,257",Death Rate,6.5
+Kerala,2017,75,13.1,no,KL,"7,01,577",Death Rate,6.8
+Madhya Pradesh,2017,66,7.6,no,MP,"7,28,242",Death Rate,6.8
+Maharashtra,2017,73,9.3,no,MH,"24,11,600",Death Rate,5.7
+Manipur,2017,80,0.1,yes,MN,"23,968",Death Rate,5.3
+Meghalaya,2017,79,0.1,yes,ML,"30,790",Death Rate,6.1
+Mizoram,2017,83,0.1,yes,MZ,"19,457",Death Rate,4
+Nagaland,2017,84,0,yes,NL,"24,281",Death Rate,3.6
+Odisha,2017,68,2.1,yes,OD,"4,36,374",Death Rate,7.4
+Puducherry,2017,73,0.1,yes,PY,"32,962",Death Rate,7.3
+Punjab,2017,72,1.4,yes,PB,"4,79,141",Death Rate,7
+Rajasthan,2017,69,4.9,moderate,RJ,"8,35,558",Death Rate,6
+Sikkim,2017,81,0,yes,SK,"23,495",Death Rate,4.5
+Tamil Nadu,2017,75,8.4,no,TN,"14,61,841",Death Rate,6.7
+Telangana,2017,72,2.7,yes,TS,"7,53,811",Death Rate,6.6
+Tripura,2017,82,0.1,yes,TR,"46,133",Death Rate,5.2
+Uttar Pradesh,2017,65,12,no,UP,"13,76,324",Death Rate,6.7
+Uttarakhand,2017,71,0.6,yes,UK,"2,22,836",Death Rate,6.7
+West Bengal,2017,71,3.9,moderate,WB,"9,99,585",Death Rate,5.8
+Andaman & Nicobar Island,2017,,,,,,Birth Rate,11.4
+Andhra Pradesh,2017,,,,,,Birth Rate,16.2
+Arunanchal Pradesh,2017,,,,,,Birth Rate,18.3
+Assam,2017,,,,,,Birth Rate,21.2
+Bihar,2017,,,,,,Birth Rate,26.4
+Chandigarh,2017,,,,,,Birth Rate,13.5
+Chhattisgarh,2017,,,,,,Birth Rate,22.7
+NCT of Delhi,2017,,,,,,Birth Rate,15.2
+Goa,2017,,,,,,Birth Rate,12.5
+Gujarat,2017,,,,,,Birth Rate,19.9
+Haryana,2017,,,,,,Birth Rate,20.5
+Himachal Pradesh,2017,,,,,,Birth Rate,15.8
+Jammu & Kashmir,2017,,,,,,Birth Rate,15.4
+Jharkhand,2017,,,,,,Birth Rate,22.7
+Karnataka,2017,,,,,,Birth Rate,17.4
+Kerala,2017,,,,,,Birth Rate,14.2
+Madhya Pradesh,2017,,,,,,Birth Rate,24.8
+Maharashtra,2017,,,,,,Birth Rate,15.7
+Manipur,2017,,,,,,Birth Rate,14.6
+Meghalaya,2017,,,,,,Birth Rate,22.8
+Mizoram,2017,,,,,,Birth Rate,15
+Nagaland,2017,,,,,,Birth Rate,13.5
+Odisha,2017,,,,,,Birth Rate,18.3
+Puducherry,2017,,,,,,Birth Rate,13.2
+Punjab,2017,,,,,,Birth Rate,14.9
+Rajasthan,2017,,,,,,Birth Rate,24.1
+Sikkim,2017,,,,,,Birth Rate,16.4
+Tamil Nadu,2017,,,,,,Birth Rate,14.9
+Telangana,2017,,,,,,Birth Rate,17.2
+Tripura,2017,,,,,,Birth Rate,13
+Uttar Pradesh,2017,,,,,,Birth Rate,25.9
+Uttarakhand,2017,,,,,,Birth Rate,17.3
+West Bengal,2017,,,,,,Birth Rate,15.2
+Andaman & Nicobar Island,2018,84,0.1,yes,AN,"9,00,318",Death Rate,5.3
+Andhra Pradesh,2018,70,2.9,yes,AD,"9,33,402",Death Rate,6.7
+Arunanchal Pradesh,2018,78,0.1,yes,AR,"25,268",Death Rate,6
+Assam,2018,66,2.6,yes,AS,"3,32,939",Death Rate,6.4
+Bihar,2018,69,5.2,no,BR,"5,57,490",Death Rate,5.8
+Chandigarh,2018,77,0.1,yes,CH,"39,825",Death Rate,4.3
+Chhattisgarh,2018,68,1.9,yes,CG,"3,11,660",Death Rate,8
+NCT of Delhi,2018,75,5.2,no,DL,"7,79,652",Death Rate,3.3
+Goa,2018,80,0.1,yes,GA,"77,172",Death Rate,5.9
+Gujarat,2018,72,7.7,no,GJ,"14,99,013",Death Rate,5.9
+Haryana,2018,70,3.8,moderate,HR,"7,07,126",Death Rate,5.9
+Himachal Pradesh,2018,73,0.4,yes,HP,"1,53,181",Death Rate,6.9
+Jammu & Kashmir,2018,74,0.5,yes,JK,"1,60,464",Death Rate,4.9
+Jharkhand,2018,75,1.1,yes,JH,"3,07,581",Death Rate,5.4
+Karnataka,2018,69,3.2,yes,KA,"15,35,224",Death Rate,6.3
+Kerala,2018,75,10.1,no,KL,"7,81,653",Death Rate,6.9
+Madhya Pradesh,2018,65,8,no,MP,"26,56,551",Death Rate,6.7
+Maharashtra,2018,72,10.2,no,MH,"25,79,627",Death Rate,5.5
+Manipur,2018,79,0.1,yes,MN,"27,869",Death Rate,4.5
+Meghalaya,2018,81,0.1,yes,ML,"32,175",Death Rate,5.8
+Mizoram,2018,80,0,yes,MZ,"21,878",Death Rate,4.1
+Nagaland,2018,78,0,yes,NL,"26,527",Death Rate,3.5
+Odisha,2018,79,2.1,yes,OD,"4,85,376",Death Rate,7.3
+Puducherry,2018,70,0.1,yes,PY,"36,656",Death Rate,6.9
+Punjab,2018,69,1.4,yes,PB,"5,21,861",Death Rate,6.6
+Rajasthan,2018,68,4.9,moderate,RJ,"9,29,124",Death Rate,5.9
+Sikkim,2018,71,0,yes,SK,"26,786",Death Rate,4.5
+Tamil Nadu,2018,69,9.8,no,TN,"16,64,159",Death Rate,6.5
+Telangana,2018,72,2.5,yes,TS,"8,65,688",Death Rate,6.3
+Tripura,2018,73,0.1,yes,TR,"8,60,077",Death Rate,5.5
+Uttar Pradesh,2018,64,11.5,no,UP,"15,42,432",Death Rate,6.6
+Uttarakhand,2018,74,0.7,yes,UK,"2,45,895",Death Rate,6.2
+West Bengal,2018,71,3.7,moderate,WB,"11,77,586",Death Rate,5.6
+Andaman & Nicobar Island,2018,,,,,,Birth Rate,11.2
+Andhra Pradesh,2018,,,,,,Birth Rate,16
+Arunanchal Pradesh,2018,,,,,,Birth Rate,17.9
+Assam,2018,,,,,,Birth Rate,21.1
+Bihar,2018,,,,,,Birth Rate,26.2
+Chandigarh,2018,,,,,,Birth Rate,13.3
+Chhattisgarh,2018,,,,,,Birth Rate,22.5
+NCT of Delhi,2018,,,,,,Birth Rate,14.7
+Goa,2018,,,,,,Birth Rate,12.4
+Gujarat,2018,,,,,,Birth Rate,19.7
+Haryana,2018,,,,,,Birth Rate,20.3
+Himachal Pradesh,2018,,,,,,Birth Rate,15.7
+Jammu & Kashmir,2018,,,,,,Birth Rate,15.4
+Jharkhand,2018,,,,,,Birth Rate,22.6
+Karnataka,2018,,,,,,Birth Rate,17.2
+Kerala,2018,,,,,,Birth Rate,13.9
+Madhya Pradesh,2018,,,,,,Birth Rate,24.6
+Maharashtra,2018,,,,,,Birth Rate,15.6
+Manipur,2018,,,,,,Birth Rate,14.3
+Meghalaya,2018,,,,,,Birth Rate,22.1
+Mizoram,2018,,,,,,Birth Rate,14.8
+Nagaland,2018,,,,,,Birth Rate,12.9
+Odisha,2018,,,,,,Birth Rate,18.2
+Puducherry,2018,,,,,,Birth Rate,13.7
+Punjab,2018,,,,,,Birth Rate,14.8
+Rajasthan,2018,,,,,,Birth Rate,24
+Sikkim,2018,,,,,,Birth Rate,16.3
+Tamil Nadu,2018,,,,,,Birth Rate,14.7
+Telangana,2018,,,,,,Birth Rate,16.9
+Tripura,2018,,,,,,Birth Rate,13
+Uttar Pradesh,2018,,,,,,Birth Rate,25.6
+Uttarakhand,2018,,,,,,Birth Rate,16.7
+West Bengal,2018,,,,,,Birth Rate,15
+Andaman & Nicobar Island,2019,79,0.1,yes,AN,"9,719",Death Rate,5.3
+Andhra Pradesh,2019,69,2.8,yes,AD,"10,80,657",Death Rate,6.4
+Arunanchal Pradesh,2019,75,0.1,yes,AR,"28,046",Death Rate,5.8
+Assam,2019,64,2.6,yes,AS,"3,74,096",Death Rate,6.3
+Bihar,2019,68,5.2,no,BR,"5,72,827",Death Rate,5.5
+Chandigarh,2019,74,0.1,yes,CH,"43,674",Death Rate,4
+Chhattisgarh,2019,65,1.9,yes,CG,"3,63,900",Death Rate,7.3
+NCT of Delhi,2019,70,6.1,no,DL,"8,30,872",Death Rate,3.2
+Goa,2019,79,0.1,yes,GA,"74,828",Death Rate,5.9
+Gujarat,2019,69,8.4,no,GJ,"17,01,495",Death Rate,5.6
+Haryana,2019,69,3.2,yes,HR,"7,84,910",Death Rate,5.9
+Himachal Pradesh,2019,72,0.4,yes,HP,"1,68,972",Death Rate,6.9
+Jammu & Kashmir,2019,73,0.5,yes,JK,"1,70,382",Death Rate,4.6
+Jharkhand,2019,67,1.2,yes,JH,"3,29,726",Death Rate,5.3
+Karnataka,2019,69,3.2,yes,KA,"15,88,303",Death Rate,6.2
+Kerala,2019,75,8.8,no,KL,"8,75,514",Death Rate,7.1
+Madhya Pradesh,2019,64,7.7,no,MP,"9,06,672",Death Rate,6.6
+Maharashtra,2019,72,9.9,no,MH,"29,79,556",Death Rate,5.4
+Manipur,2019,80,0.1,yes,MN,"31,790",Death Rate,4.3
+Meghalaya,2019,81,0.1,yes,ML,"34,715",Death Rate,5.6
+Mizoram,2019,79,0.1,yes,MZ,"25,148",Death Rate,4
+Nagaland,2019,80,0,yes,NL,"29,535",Death Rate,3.5
+Odisha,2019,66,2.4,yes,OD,"5,408",Death Rate,7.1
+Puducherry,2019,79,0.1,yes,PY,"5,77,829",Death Rate,6.8
+Punjab,2019,72,1.4,yes,PB,"5,39,686",Death Rate,6.6
+Rajasthan,2019,68,5.9,no,RJ,"9,98,999",Death Rate,5.7
+Sikkim,2019,79,0,yes,SK,"30,808",Death Rate,4.2
+Tamil Nadu,2019,68,8.8,no,TN,"18,54,239",Death Rate,6.1
+Telangana,2019,71,2.5,yes,TS,"9,69,604",Death Rate,6.1
+Tripura,2019,75,0.1,yes,TR,"9,57,207",Death Rate,5.5
+Uttar Pradesh,2019,64,11.5,no,UP,"17,91,000",Death Rate,6.5
+Uttarakhand,2019,72,0.5,yes,UK,"2,63,233",Death Rate,6
+West Bengal,2019,70,3.6,moderate,WB,"13,14,529",Death Rate,5.3
+Andaman & Nicobar Island,2019,,,,,,Birth Rate,16.3
+Andhra Pradesh,2019,,,,,,Birth Rate,18.3
+Arunanchal Pradesh,2019,,,,,,Birth Rate,21.1
+Assam,2019,,,,,,Birth Rate,23.6
+Bihar,2019,,,,,,Birth Rate,28.5
+Chandigarh,2019,,,,,,Birth Rate,15.9
+Chhattisgarh,2019,,,,,,Birth Rate,25.7
+NCT of Delhi,2019,,,,,,Birth Rate,18.1
+Goa,2019,,,,,,Birth Rate,13.5
+Gujarat,2019,,,,,,Birth Rate,22.3
+Haryana,2019,,,,,,Birth Rate,22.7
+Himachal Pradesh,2019,,,,,,Birth Rate,17.2
+Jammu & Kashmir,2019,,,,,,Birth Rate,18.6
+Jharkhand,2019,,,,,,Birth Rate,25.6
+Karnataka,2019,,,,,,Birth Rate,19.5
+Kerala,2019,,,,,,Birth Rate,14.7
+Madhya Pradesh,2019,,,,,,Birth Rate,27.7
+Maharashtra,2019,,,,,,Birth Rate,17.6
+Manipur,2019,,,,,,Birth Rate,15.4
+Meghalaya,2019,,,,,,Birth Rate,24.4
+Mizoram,2019,,,,,,Birth Rate,17.6
+Nagaland,2019,,,,,,Birth Rate,17.2
+Odisha,2019,,,,,,Birth Rate,21
+Puducherry,2019,,,,,,Birth Rate,16.5
+Punjab,2019,,,,,,Birth Rate,17
+Rajasthan,2019,,,,,,Birth Rate,27.2
+Sikkim,2019,,,,,,Birth Rate,18.1
+Tamil Nadu,2019,,,,,,Birth Rate,16.3
+Telangana,2019,,,,,,Birth Rate,18.2
+Tripura,2019,,,,,,Birth Rate,14.8
+Uttar Pradesh,2019,,,,,,Birth Rate,28.7
+Uttarakhand,2019,,,,,,Birth Rate,19.7
+West Bengal,2019,,,,,,Birth Rate,17.2

@@ -1,0 +1,34 @@
+states,BCG,Measels,vaccination,total_status,latitude,longitude,BCG_status,Measles_status
+Andaman & Nicobar Islands,100,95,95,fully_covered,11.66702557,92.73598262,fully_covered,fully_covered
+Andhra Pradesh,95.3,74.9,49.6,partially_covered,14.7504291,78.57002559,fully_covered,partially_covered
+Arunachal Pradesh,65.1,34.6,19.1,poorly_covered,27.10039878,93.61660071,partially_covered,poorly_covered
+Assam,73,66.6,37,poorly_covered,26.7499809,94.21666744,partially_covered,partially_covered
+Bihar,73.9,53.1,39.8,poorly_covered,25.78541445,87.4799727,partially_covered,partially_covered
+Chandigarh,100,100,100,fully_covered,30.71999697,76.78000565,fully_covered,fully_covered
+Chhattisgarh,88.3,70.7,54,partially_covered,22.09042035,82.15998734,partially_covered,partially_covered
+Dadar& Nagar Haveli,100,100,100,fully_covered,20.26657819,73.0166178,fully_covered,fully_covered
+Delhi,89.6,89.6,63.6,partially_covered,28.6699929,77.23000403,partially_covered,partially_covered
+Goa,100,59.3,59.3,partially_covered,15.491997,73.81800065,fully_covered,partially_covered
+Gujarat,91.6,74,55.2,partially_covered,28.45000633,77.01999101,partially_covered,partially_covered
+Haryana,82.3,80.7,74.8,partially_covered,31.10002545,77.16659704,partially_covered,partially_covered
+Himachal Pradesh,100,88.6,73,partially_covered,34.29995933,74.46665849,fully_covered,partially_covered
+Jammu and Kashmir,97,86.7,78,partially_covered,23.80039349,86.41998572,fully_covered,partially_covered
+Jharkhand,83.7,65.9,51.1,partially_covered,12.57038129,76.91999711,partially_covered,partially_covered
+Karnataka,88.6,75.4,63.4,partially_covered,8.900372741,76.56999263,partially_covered,partially_covered
+Kerala,100,88.4,79.7,partially_covered,10.56257331,72.63686717,fully_covered,partially_covered
+Madhya Pradesh,86.1,65.5,48.9,poorly_covered,21.30039105,76.13001949,partially_covered,partially_covered
+Maharashtra,100,88.3,65.1,partially_covered,19.25023195,73.16017493,fully_covered,partially_covered
+Manipur,100,100,100,fully_covered,24.79997072,93.95001705,fully_covered,fully_covered
+Meghalaya,82.8,100,82.8,partially_covered,25.57049217,91.8800142,partially_covered,fully_covered
+Mizoram,75.4,100,75.4,partially_covered,23.71039899,92.72001461,partially_covered,fully_covered
+Nagaland,96.8,81.2,78,partially_covered,25.6669979,94.11657019,fully_covered,partially_covered
+Orissa,83.2,73.7,59.1,partially_covered,19.82042971,85.90001746,partially_covered,partially_covered
+Puducherry,100,100,100,fully_covered,11.93499371,79.83000037,fully_covered,fully_covered
+Punjab,88.4,79.7,67.9,partially_covered,31.51997398,75.98000281,partially_covered,partially_covered
+Rajasthan,70.5,58.4,31.9,poorly_covered,26.44999921,74.63998124,partially_covered,partially_covered
+Sikkim,100,100,100,fully_covered,27.3333303,88.6166475,fully_covered,fully_covered
+Tamil Nadu,99.1,90.9,86.7,partially_covered,12.92038576,79.15004187,fully_covered,partially_covered
+Tripura,80.1,72.8,69.4,partially_covered,23.83540428,91.27999914,partially_covered,partially_covered
+Uttar Pradesh,71,41.5,29.9,poorly_covered,27.59998069,78.05000565,partially_covered,poorly_covered
+Uttrakhand,91.4,75.6,63.6,partially_covered,30.32040895,78.05000565,partially_covered,partially_covered
+West Bengal,94,82.2,67.4,partially_covered,22.58039044,88.32994665,partially_covered,partially_covered
