@@ -7,7 +7,7 @@ import pandas as pd
 import json
 import pathlib
 
-states_india = json.load(open("C:\\Users\\DELL\\Downloads\\india_states.geojson", 'r'))
+states_india = json.load(open("india_states.geojson", 'r'))
 state_id_map = {}
 for feature in states_india["features"]:
     feature["id"] = feature["properties"]["state_code"]

@@ -80,7 +80,7 @@ colors = {'Andaman and Nicobar Islands': ['rgb(0, 37, 77)', 'rgb(0, 51, 102)', '
           'West Bengal': ['rgb(51, 153, 51)', 'rgb(64, 191, 64)', 'rgb(121, 210, 121)', 'rgb(159, 223, 159)',
                           'rgb(198, 236, 198)']}
 
-states_india = json.load(open("C:\\Users\\DELL\\Downloads\\india_states.geojson", 'r'))
+states_india = json.load(open("india_states.geojson", 'r'))
 state_id_map = {}
 for feature in states_india["features"]:
     feature["id"] = feature["properties"]["state_code"]

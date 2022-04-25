@@ -13,14 +13,13 @@ from dash.exceptions import PreventUpdate
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.VAPOR])
 server = app.server
 token = 'pk.eyJ1IjoicGFyaW1hbGE1Njc4IiwiYSI6ImNsMDN1dnAzMzA3bGYzYm9nNTB6OXlrdnkifQ.ezumHt1etwfcMkRHuTe6FQ'
-states_india = json.load(open("C:\\Users\\DELL\\Downloads\\india_states.geojson", 'r'))
+states_india = json.load(open("india_states.geojson", 'r'))
 state_id_map = {}
 for feature in states_india["features"]:
     feature["id"] = feature["properties"]["state_code"]
     state_id_map[feature["properties"]["st_nm"]] = feature["id"]
 PATH = pathlib.Path(__file__).parent
-DATA_PATH = PATH.joinpath("../final_year/datasets").resolve()
-
+DATA_PATH = PATH.joinpath("../Capstone/datasets").resolve()
 df = pd.read_csv(DATA_PATH.joinpath("children_dataset.csv"))
 df2 = pd.read_csv(DATA_PATH.joinpath("Death_rate.csv"))
 df3 = pd.read_csv(DATA_PATH.joinpath("alcohol_and_speed_deaths.csv"))

@@ -12,7 +12,7 @@ PATH = pathlib.Path(__file__).parent
 DATA_PATH = PATH.joinpath("../datasets").resolve()
 
 df3 = pd.read_csv(DATA_PATH.joinpath("alcohol_and_speed_deaths.csv"))
-states_india = json.load(open("C:\\Users\\DELL\\Downloads\\india_states.geojson", 'r'))
+states_india = json.load(open("india_states.geojson", 'r'))
 state_id_map = {}
 for feature in states_india["features"]:
     feature["id"] = feature["properties"]["state_code"]

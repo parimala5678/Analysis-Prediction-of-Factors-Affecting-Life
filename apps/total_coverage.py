@@ -122,7 +122,7 @@ for _, state in immu_states.iterrows():
         hover=state['states'],
         icon=folium.Icon(color=state['colors'], prefix='fa', icon='circle')
     ).add_to(measles_vaccine)
-world_all_states_colored.save('E:/CAPSTONE/world_all_states_colored_updated.html')
+world_all_states_colored.save('world_all_states_colored_updated.html')
 
 app = dash.Dash(external_stylesheets=[dbc.themes.VAPOR])
 

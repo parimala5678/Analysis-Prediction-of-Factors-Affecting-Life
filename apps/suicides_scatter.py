@@ -5,17 +5,18 @@ from dash import html
 import pandas as pd
 import json
 import folium
+import pathlib
 
-
-states_india = json.load(open("C:\\Users\\DELL\\Downloads\\india_states.geojson", 'r'))
+states_india = json.load(open("india_states.geojson", 'r'))
 state_id_map = {}
 for feature in states_india["features"]:
     feature["id"] = feature["properties"]["state_code"]
     state_id_map[feature["properties"]["st_nm"]] = feature["id"]
-df = pd.read_csv('E:/CAPSTONE/ACCIDENTAL_DEATHS/suicides_dataset.csv')
-df['id'] = df["states"].apply(lambda x: state_id_map[x])
 
-print(df.head(5))
+PATH = pathlib.Path(__file__).parent
+DATA_PATH = PATH.joinpath("../datasets").resolve()
+df = pd.read_csv(DATA_PATH.joinpath("suicides_dataset.csv"))
+df['id'] = df["states"].apply(lambda x: state_id_map[x])
 all_states = df.states.unique()
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
